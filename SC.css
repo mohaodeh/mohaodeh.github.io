@@ -1,0 +1,31 @@
+html{
+    font-size: 1.5vw;
+}
+p{
+    background-color:rgb(146, 143, 138);
+    font-family:courier;
+}
+h1{font-size:300%;
+}
+.d{
+    text-align: center;
+
+}
+ul { display: inline-block; text-align: left; }
+ol{
+    display: inline-block; text-align: left;
+}
+h4{font-size:130%;
+}
+h5{font-size:130%;
+}
+.m{
+   max-width:100%;
+}
+.color1{
+    text-align: center;
+      
+}
+.color2{
+    text-align: center;
+}
